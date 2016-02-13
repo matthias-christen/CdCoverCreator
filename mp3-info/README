@@ -1,0 +1,12 @@
+
+  This is a quick program hacked together to show the lengths of MP3's.
+
+  It was modified from the code available at:
+
+  	http://home.swipnet.se/grd/mp3info/mp3doc.html
+
+  Most of the changes are concerned with portability - removing windows
+  dependancies.
+
+Steve
+---

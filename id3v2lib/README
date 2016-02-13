@@ -1,0 +1,44 @@
+This library was written by Samuel Abels (sam@manicsadness.com).
+The charset conversion were taken from EasyTag, but he took it from XMMS.
+If you have any questions, feel free to contact me, or visit the project homepage at
+
+http://software.manicsadness.com
+
+Authors
+------------
+Samuel Abels (sam@manicsadness.com)
+
+Patches
+------------
+Matt McClure (mlm@aya.yale.edu)
+
+
+
+----------------
+
+The library is very easy to use.
+It is meant to be compiled directly into your project.
+
+
+Example:
+
+#include "genre.h"
+#include "lib_id3v1.h"
+
+main()
+{
+    id3Tag tag;
+    
+    strcpy (tag.artist, "Myartist");
+    strcpy (tag.album, "Myalbum");
+    strcpy (tag.title, "Mysong");
+    strcpy (tag.track, "12");
+    strcpy (tag.year, "2002");
+    strcpy (tag.comment, "Mycomment");
+    strcpy (tag.genre, "Mygenre");
+    
+    set_id3v2tag(&tag, "/home/sam/myfile.mp3");
+}
+
+
+If you need more info, look into the header file, it's really simple.

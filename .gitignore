@@ -1,3 +1,9 @@
+*.ncb
+*.aps
+Debug/
+Release/
+.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo

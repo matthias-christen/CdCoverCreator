@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<measures>
+	<type name="Cover">
+		<measure name="3T JewelCaseInserts" left="4.3" top="1.6" width="12" height="12"/>
+		<measure name="Avery 8931 Tray Insert" left="4.65" top="14.45" width="12" height="12"/>
+		<measure name="Avery 8891 DVD Insert" left="1" top="1.5" width="27.3" height="18.7"/>
+		<measure name="Avery J8432 BookletCover" left="2.75" top="4.5" width="12.04" height="12.04"/>
+		<measure name="BOMA JewelCase Upper" left="4.35" top="2.05" width="11.95" height="11.95"/>
+		<measure name="DataBecker 09902" left="6.15" top="1.7" width="12.2" height="12.2"/>
+		<measure name="DesignExpress Tray Insert" left="4.35" top="2.65" width="12.2" height="12.2"/>
+		<measure name="HP CD Cover Inlays" left="4.45" top="2.85" width="12" height="12"/>
+		<measure name="Memorex JewelCase Label" left="4.6" top="14.5" width="12.1" height="12.1"/>
+		<measure name="Neato JewelCase Book Cover" left="2.75" top="4.5" width="12" height="12"/>
+		<measure name="Neato DVD Insert" left="1.03" top="0.5" width="27.3" height="18.7"/>
+		<measure name="Pearl W5513" left="5.9" top="2.5" width="12.2" height="12.2"/>
+		<measure name="Rymans" left="5.95" top="2.4" width="12.2" height="12.2"/>
+		<measure name="Stomper JewelCase Insert" left="4.45" top="2.55" width="11.95" height="11.95"/>
+		<measure name="Zweckform 32250 & 32251 (new)" left="5.85" top="2.4" width="12.1" height="12.1"/>
+		<measure name="Zweckform 32250 & 32251 (old)" left="5.9" top="2.85" width="12" height="12"/>
+	</type>
+	<type name="Back">
+		<measure name="Avery J8431 BookletCover" left="14.8" top="4.5" width="12" height="12"/>
+		<measure name="Neato JewelCase Book Cover" left="14.8" top="4.5" width="12" height="12"/>
+	</type>
+	<type name="Inlay">
+		<measure name="3T JewelCaseInserts" left="2.85" top="14.7" width="15" height="11.7"/>
+		<measure name="Avery 8931 Tray Insert" left="3.25" top="1.75" width="15" height="11.7"/>
+		<measure name="Avery J8432 Tray Insert" left="2.85" top="2.5" width="15" height="11.75"/>
+		<measure name="BOMA JewelCase Bottom" left="2.75" top="1.95" width="15.1" height="11.68"/>
+		<measure name="DataBecker 09902" left="3.1" top="14.75" width="11.9" height="15.2"/>
+		<measure name="DesignExpress Tray Insert" left="2.8" top="15.75" width="15.2" height="11.8"/>
+		<measure name="HP CD Cover Inlays" left="2.9" top="15.85" width="15" height="11.7"/>
+		<measure name="Memorex JewelCase Label" left="3.1" top="1.7" width="15" height="11.8"/>
+		<measure name="Neato JewelCase TrayLiner" left="2.85" top="2" width="15" height="11.75"/>
+		<measure name="Pearl W5513" left="2.9" top="15.6" width="15.2" height="11.9"/>
+		<measure name="Rymans" left="2.95" top="15.5" width="15.2" height="11.9"/>
+		<measure name="Stomper JewelCase Insert" left="2.95" top="15.55" width="14.95" height="11.75"/>
+		<measure name="Zweckform 32250 & 32251 (new)" left="2.85" top="15.5" width="15.1" height="11.77"/>
+		<measure name="Zweckform 32250 & 32251 (old)" left="2.9" top="14.95" width="15.2" height="11.9"/>
+	</type>
+	<type name="Label">
+		<measure name="3T TraxDataPressIT" left="1" top="2.35" width="11.7" height="11.7"/>
+		<measure name="Avery 8931 CD Label" left="4.85" top="1.75" width="11.7" height="11.7"/>
+		<measure name="Avery CD Labels 5824" left="4.6" top="2.2" width="11.7" height="11.7"/>
+		<measure name="BOMA CD Label" left="4.45" top="2.35" width="11.7" height="11.7"/>
+		<measure name="Canon Pixma iP 5200" left="0.6" top="8.6" width="11.7" height="11.7"/>
+		<measure name="CDLAC CD Label" left="4.95" top="1.55" width="11.7" height="11.7"/>
+		<measure name="DesignExpress CD Label" left="0.95" top="2.55" width="11.7" height="11.7"/>
+		<measure name="EPSON R300" left="1.5" top="0.8" width="11.7" height="11.7"/>
+		<measure name="Gizmos StickIt" left="4.8" top="1.75" width="11.7" height="11.7"/>
+		<measure name="Herma CD Label" left="4.6" top="1.65" width="11.7" height="11.7"/>
+		<measure name="HP Labels II" left="4.6" top="2.5" width="11.7" height="11.7"/>
+		<measure name="Memorex CD Label" left="1.35" top="1.8" width="11.7" height="11.7"/>
+		<measure name="Neato CD Labels" left="4.5" top="2.5" width="11.7" height="11.7"/>
+		<measure name="Pearl P863" left="4.5" top="2.2" width="11.7" height="11.7"/>
+		<measure name="Rymans Standard" left="4.65" top="2.14" width="11.7" height="11.7"/>
+		<measure name="Stomper CD Labels" left="1.2" top="1.6" width="11.7" height="11.7"/>
+		<measure name="Zweckform 6015, 6043, 3654" left="4.6" top="2.2" width="11.7" height="11.7"/>
+	</type>
+</measures>

@@ -1,0 +1,12 @@
+CdCoverCreator is distributed as free software.
+Feel free to copy and distribute this software.
+
+This software is provided "as is" without warranties of any kind. The use of CdCoverCreator is at your sole risk. In no event shall the author be liable for any damages arising out of or related to the use, inability to use, performance or nonperformance of this software.
+
+It is illegal to use covers of CDs you don't possess.
+The author is not liable for the use of this feature nor for the content of the websites linked by Cover Browser or Lyrics Browser.
+
+This program is not SpyWare. However, An existing internet connection may be used for version checking. You may turn this off by unticking the "Check program version" check box in the "Program settings" dialog.
+
+Hundreds of hours have been spent to create this program for you. If you find it useful, please consider making a donation.
+Cf. Help / About, or http://www.thyante.com.

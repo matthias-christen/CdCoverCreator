@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "covertarget_com", "covertarget_com.vcproj", "{E670A00E-7538-4680-9435-2521811D7BEB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLTester", "..\DLLTester\DLLTester.vcproj", "{6ADE1E5F-A06D-4CC2-9F5A-9DF7CCC24BA7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E670A00E-7538-4680-9435-2521811D7BEB}.Debug.ActiveCfg = Debug|Win32
+		{E670A00E-7538-4680-9435-2521811D7BEB}.Debug.Build.0 = Debug|Win32
+		{E670A00E-7538-4680-9435-2521811D7BEB}.Release.ActiveCfg = Release|Win32
+		{E670A00E-7538-4680-9435-2521811D7BEB}.Release.Build.0 = Release|Win32
+		{6ADE1E5F-A06D-4CC2-9F5A-9DF7CCC24BA7}.Debug.ActiveCfg = Debug|Win32
+		{6ADE1E5F-A06D-4CC2-9F5A-9DF7CCC24BA7}.Debug.Build.0 = Debug|Win32
+		{6ADE1E5F-A06D-4CC2-9F5A-9DF7CCC24BA7}.Release.ActiveCfg = Release|Win32
+		{6ADE1E5F-A06D-4CC2-9F5A-9DF7CCC24BA7}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
